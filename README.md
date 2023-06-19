@@ -4,3 +4,5 @@
 ![18f35d8b-39ea-4925-8420-ecd9e05cf3cf](https://github.com/MoezChallouf/Android-Crud-Firebase/assets/72388621/10a8bc53-53ea-40aa-a531-656a46a90c9c)
 ![09f9b758-0e18-45c6-a45b-95c81fc6291c](https://github.com/MoezChallouf/Android-Crud-Firebase/assets/72388621/699c624c-20b1-42bb-8f70-4fd80972ee8f)
 ![18522c2f-eaae-4e1d-9113-8ac289370494](https://github.com/MoezChallouf/Android-Crud-Firebase/assets/72388621/93477dca-5a92-412d-9e0c-db709dbf6275)
+![uses_case](https://github.com/MoezChallouf/Android-Crud-Firebase/assets/72388621/b097ba37-dca7-4959-9259-9acd0c5819cc)
+![fireauth-768x325](https://github.com/MoezChallouf/Android-Crud-Firebase/assets/72388621/59ec7eb9-7db3-4ba7-9faa-ee4d097973b9)
